@@ -1,0 +1,15 @@
+[submodule "Office-DDE-Payloads"]
+	path = Office-DDE-Payloads
+	url = https://github.com/0xdeadbeefJERKY/Office-DDE-Payloads
+[submodule "CACTUSTORCH_DDEAUTO"]
+	path = CACTUSTORCH_DDEAUTO
+	url = https://github.com/xillwillx/CACTUSTORCH_DDEAUTO
+[submodule "wePWNise"]
+	path = wePWNise
+	url = https://github.com/mwrlabs/wePWNise
+[submodule "macro_pack"]
+	path = macro_pack
+	url = https://github.com/sevagas/macro_pack
+[submodule "macphish"]
+	path = macphish
+	url = https://github.com/cldrn/macphish
