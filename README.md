@@ -12,3 +12,12 @@ https://github.com/xillwillx/CACTUSTORCH_DDEAUTO<br>
 https://github.com/0xdeadbeefJERKY/Office-DDE-Payloads<br>
 Сборник скриптов и шаблонов для создания документов MS Word с встроеным DDE методом запуска команд без использования макросов.<br>
 <br>
+<b>macphish</b><br>
+<br>
+https://github.com/cldrn/macphish<br>
+Генератор макросов под Mac.<br>
+<br>
+<b>wePWNise</b><br>
+https://github.com/mwrlabs/wePWNise<br>
+Генератор базонезависимого кода VBA, автоматизирующий обход безопасности приложений и доставляющий эксплоит.
+<br>
