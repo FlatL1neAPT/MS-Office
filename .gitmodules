@@ -13,3 +13,6 @@
 [submodule "macphish"]
 	path = macphish
 	url = https://github.com/cldrn/macphish
+[submodule "Microsploit"]
+	path = Microsploit
+	url = https://github.com/Screetsec/Microsploit
