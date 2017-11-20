@@ -16,3 +16,6 @@
 [submodule "Microsploit"]
 	path = Microsploit
 	url = https://github.com/Screetsec/Microsploit
+[submodule "CVE-2017-11882"]
+	path = CVE-2017-11882
+	url = https://github.com/embedi/CVE-2017-11882
