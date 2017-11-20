@@ -18,3 +18,7 @@ https://github.com/cldrn/macphish<br>
 https://github.com/mwrlabs/wePWNise<br>
 Генератор базонезависимого кода VBA, автоматизирующий обход безопасности приложений и доставляющий эксплоит.
 <br>
+<b>Microsploit - Office Exploitation Tool</b><br>
+https://github.com/Screetsec/Microsploit<br>
+Скрипт создания бекдоров для MS Office с использованием Metasploit.<br>
+<br>
