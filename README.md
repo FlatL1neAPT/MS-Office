@@ -16,7 +16,7 @@ https://github.com/cldrn/macphish<br>
 <br>
 <b>wePWNise</b><br>
 https://github.com/mwrlabs/wePWNise<br>
-Генератор базонезависимого кода VBA, автоматизирующий обход безопасности приложений и доставляющий эксплоит.
+Генератор базонезависимого кода VBA, автоматизирующий обход безопасности приложений и доставляющий эксплоит.<br>
 <br>
 <b>Microsploit - Office Exploitation Tool</b><br>
 https://github.com/Screetsec/Microsploit<br>
