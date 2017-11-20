@@ -22,3 +22,7 @@ https://github.com/mwrlabs/wePWNise<br>
 https://github.com/Screetsec/Microsploit<br>
 Скрипт создания бекдоров для MS Office с использованием Metasploit.<br>
 <br>
+<b>CVE-2017-11882</b><br>
+https://github.com/embedi/CVE-2017-11882<br>
+PoC CVE-2017-11882 запускает calc.exe<br>
+<br>
