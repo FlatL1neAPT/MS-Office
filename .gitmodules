@@ -22,3 +22,6 @@
 [submodule "CVE-2017-0199"]
 	path = CVE-2017-0199
 	url = https://github.com/bhdresh/CVE-2017-0199
+[submodule "CVE-2017-8759"]
+	path = CVE-2017-8759
+	url = https://github.com/bhdresh/CVE-2017-8759
