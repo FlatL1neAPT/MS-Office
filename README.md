@@ -25,4 +25,5 @@ https://github.com/Screetsec/Microsploit<br>
 <b>CVE-2017-11882</b><br>
 https://github.com/embedi/CVE-2017-11882<br>
 PoC CVE-2017-11882 запускает calc.exe<br>
+https://github.com/Ridter/CVE-2017-11882/ - скрипт использует MSHTA
 <br>
