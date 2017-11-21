@@ -19,3 +19,6 @@
 [submodule "CVE-2017-11882"]
 	path = CVE-2017-11882
 	url = https://github.com/embedi/CVE-2017-11882
+[submodule "CVE-2017-0199"]
+	path = CVE-2017-0199
+	url = https://github.com/bhdresh/CVE-2017-0199
