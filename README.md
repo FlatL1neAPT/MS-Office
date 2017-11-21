@@ -32,3 +32,7 @@ https://github.com/0x09AL/CVE-2017-11882-metasploit - модуль для Metasp
 https://github.com/bhdresh/CVE-2017-0199<br>
 CVE-2017-0199 билдер.<br>
 <br>
+<b>CVE-2017-8759</b><br>
+https://github.com/bhdresh/CVE-2017-8759<br>
+CVE-2017-8759 билдер.<br>
+<br>
