@@ -25,3 +25,6 @@
 [submodule "CVE-2017-8759"]
 	path = CVE-2017-8759
 	url = https://github.com/bhdresh/CVE-2017-8759
+[submodule "Commentator"]
+	path = Commentator
+	url = https://github.com/clr2of8/Commentator
