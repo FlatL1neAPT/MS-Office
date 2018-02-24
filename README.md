@@ -42,6 +42,10 @@ CVE-2017-0199 билдер.<br>
 https://github.com/bhdresh/CVE-2017-8759<br>
 CVE-2017-8759 билдер.<br>
 <br>
+<b>CVE-2017-8570</b><br>
+https://github.com/rxwx/CVE-2017-8570<br>
+CVE-2017-8570 билдер.<br>
+<br>
 <b>Commentator</b><br>
 https://github.com/clr2of8/Commentator<br>
 Скрипт на powershell для работы с коментариями в документах MS Office.<br>
