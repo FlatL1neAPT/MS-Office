@@ -28,3 +28,6 @@
 [submodule "Commentator"]
 	path = Commentator
 	url = https://github.com/clr2of8/Commentator
+[submodule "CVE-2018-0802"]
+	path = CVE-2018-0802
+	url = https://github.com/rxwx/CVE-2018-0802
