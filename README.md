@@ -51,3 +51,8 @@ https://github.com/clr2of8/Commentator<br>
 Скрипт на powershell для работы с коментариями в документах MS Office.<br>
 <b>Статья как добавить малварь в комментарии</b> https://www.blackhillsinfosec.com/hide-payload-ms-office-document-properties/<br>
 <br>
+<b>Luckystrike</b><br>
+https://github.com/curi0usJack/luckystrike<br>
+Скрипт создания макросов для загрузки малвари.<br>
+<br>
+
