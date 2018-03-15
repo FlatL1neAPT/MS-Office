@@ -37,3 +37,6 @@
 [submodule "luckystrike"]
 	path = luckystrike
 	url = https://github.com/curi0usJack/luckystrike
+[submodule "CVE-2018-4878"]
+	path = CVE-2018-4878
+	url = https://github.com/anbai-inc/CVE-2018-4878
