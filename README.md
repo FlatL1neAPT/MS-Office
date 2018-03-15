@@ -27,6 +27,10 @@ https://github.com/Screetsec/Microsploit<br>
 https://github.com/rxwx/CVE-2018-0802<br>
 WinExec call, such as: cmd.exe /c%TMP%\file.exe<br>
 <br>
+<b>CVE-2018-4878</b><br>
+https://github.com/anbai-inc/CVE-2018-4878<br>
+Flash exploit<br>
+<br>
 <b>CVE-2017-11882</b><br>
 https://github.com/embedi/CVE-2017-11882<br>
 PoC CVE-2017-11882 запускает calc.exe<br>
